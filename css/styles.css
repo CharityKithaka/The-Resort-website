@@ -1,1 +1,13 @@
-
+h1{
+  color: #7A2412;
+  text-align: center;
+}
+.accommodation{
+  color: #CE19A2;
+}
+.activities{
+  color: #19CE1E;
+}
+#resort{
+  color:green;
+}
